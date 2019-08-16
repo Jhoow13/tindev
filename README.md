@@ -1,8 +1,8 @@
-#Tindev
+# Tindev
 
 Projeto realizado na semana omnistack 8 da RocketSeat.
 
-##Tecnologias
+## Tecnologias
 
 Backend -> Node e MongoDB
 
